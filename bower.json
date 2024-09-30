@@ -1,0 +1,29 @@
+{
+  "name": "adapt-capaInicial",
+  "homepage": "https://github.com/adaptlearning/adapt_framework",
+  "authors": [
+    "Tamara Steinner <tscaraujo@cetiqt.senai.br>"
+  ],
+  "description": "Capa",
+  "main": "/js/adapt-capaInicial.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/plugins",
+    "test",
+    "tests"
+  ],
+  "assetFields" : "_graphic.bg",
+  "license": "MIT",
+  "private": true,
+  "version": "0.0.6",
+  "framework": ">=5.0",
+  "component": "capaInicial",
+  "displayName": "Capa Inicial"
+}
+ 

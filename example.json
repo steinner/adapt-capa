@@ -1,0 +1,13 @@
+{
+  "_id":"c-05",
+  "_parentId":"b-05",
+  "_type":"component",
+  "_component":"capaInicial",
+  "_classes":"",
+  "title": "Título",
+  "displayTitle": "Título",
+  "instruction":"",
+  "fundoImagem": {
+    "src": "course/en/images/origami-birds-blue.jpg"
+  }
+}
