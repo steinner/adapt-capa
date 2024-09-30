@@ -1,6 +1,6 @@
 {
   "name": "adapt-capaInicial",
-  "homepage": "https://github.com/adaptlearning/adapt_framework",
+  "homepage": "https://github.com/steinner/adapt-capa",
   "authors": [
     "Tamara Steinner <tscaraujo@cetiqt.senai.br>"
   ],
@@ -21,7 +21,7 @@
   "assetFields" : "_graphic.bg",
   "license": "MIT",
   "private": true,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "framework": ">=5.0",
   "component": "capaInicial",
   "displayName": "Capa Inicial"
